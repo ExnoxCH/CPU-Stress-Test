@@ -8,5 +8,5 @@ CPU Stress Test works by duplicating itself
 ### THIS TEST REQUIRES `ROOT ACCESS!`
 
 # PREVIEW
-![pre1](assets/pre1)
-![pre2](assets/pre2)
+![pre1](.assets/pre1)
+![pre2](.assets/pre2)
